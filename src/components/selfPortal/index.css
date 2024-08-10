@@ -1,0 +1,38 @@
+.self-portal-main-box{
+    width: 800px;
+}
+
+.card-bg{
+    background-color: #e0f3fb;
+}
+
+/* Signup page styles */
+.signup-form {
+    width: 100%;
+    padding: 20px 30px;
+}
+
+/* Select product */
+.select-product{
+    min-width: 100%;
+}
+
+/* Information styles */
+.information-form {
+    width: 100%;
+    padding: 20px 30px;
+}
+
+/* Phone number styles */
+
+.phn-dropdown img{
+    margin-right: 5px;
+}
+
+.phn-dropdown .ant-select-selection-item{
+    display: flex;
+    align-items: center;
+}
+.phn-dropdown{
+    background-color: #fff;
+}
